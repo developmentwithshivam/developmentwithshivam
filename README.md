@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Shivam, i am a Front-End Developer interested in react.js
 - 🔭 I’m currently working on ... Authentication Blog 
 - 🌱 I’m currently learning ... Data Structures and Algorithms
 <!--
