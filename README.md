@@ -1,8 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-🔭 I’m currently working on an Authentication Blog Site using React.js, Appwrite, and Tailwind CSS.
-🌱 I’m currently learning Data Structures and Algorithms.
+- 🔭 I’m currently working on ... Authentication Blog 
+- 🌱 I’m currently learning ... Data Structures and Algorithms
 <!--
 **developmentwithshivam/developmentwithshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
