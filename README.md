@@ -2,6 +2,7 @@
 My name is Shivam, i am a Front-End Developer interested in react.js
 - 🔭 I’m currently working on ... Authentication Blog 
 - 🌱 I’m currently learning ... Data Structures and Algorithms
+- 🤝 I’m looking to collaborate on your project/company.
 - 📬 Let's connect!
 
 LinkedIn: www.linkedin.com/in/shivam-dixit-58b99828b
