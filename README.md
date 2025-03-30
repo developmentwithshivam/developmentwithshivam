@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 🔭 I’m currently working on an Authentication Blog Site using React.js, Appwrite, and Tailwind CSS.
 🌱 I’m currently learning Data Structures and Algorithms.
 <!--
