@@ -2,6 +2,10 @@
 My name is Shivam, i am a Front-End Developer interested in react.js
 - 🔭 I’m currently working on ... Authentication Blog 
 - 🌱 I’m currently learning ... Data Structures and Algorithms
+- 📬 Let's connect!
+
+LinkedIn: www.linkedin.com/in/shivam-dixit-58b99828b
+✉️ Email me at: developmentwithshivam@gmail.com
 <!--
 **developmentwithshivam/developmentwithshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
