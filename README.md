@@ -22,9 +22,7 @@ React.js TypeScript JavaScript Java Spring Boot Node.js PostgreSQL MongoDB Redux
 
 🤝 Connect With Me
 
-LinkedIn: My Profile
-
-Portfolio: My Portfolio
+LinkedIn: www.linkedin.com/in/developmentwithshivam
 
 Email: developmentwithshivam@gmail.com
 
