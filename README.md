@@ -1,123 +1,31 @@
-Hi there, I'm Shivam Dixit 👋
+Hi, I'm Shivam Dixit 👋
 
-🚀 Software Engineer | Full Stack Developer | React.js | Java | Spring Boot
+Software Engineer | Full Stack Developer
 
-I'm a Software Engineer at MindSpick, working on AssetNeuron, an AI-powered EAM/CMMS platform.
+I'm a Software Engineer at MindSpick, building scalable applications with React.js, TypeScript, Java and Spring Boot.
 
-I enjoy building scalable web applications, developing backend services, designing microfrontend architectures, and creating offline-first Progressive Web Applications (PWAs).
+💻 Full Stack Development (React.js, Java, Spring Boot)
 
-💻 Working with React.js, TypeScript, Java & Spring Boot
+⚙️ REST APIs, PostgreSQL & Microservices
 
-🔧 Building REST APIs and backend services using Spring Boot
+📱 PWA, Service Workers, Workbox & IndexedDB
 
-🏗️ Experience with Microfrontend Architecture and Webpack Module Federation
+🏗️ Microfrontend Architecture
 
-📱 Exploring Offline-First PWA development using Service Workers, Workbox & IndexedDB
+🤖 Exploring Agentic AI & MCP
 
-🤖 Interested in Agentic AI, MCP and AI-assisted software development
-
-🧪 Working with Playwright, Jest, Vitest and React Testing Library
-
-📚 Continuously learning and improving my software engineering skills
+🧪 Playwright, Jest & Vitest
 
 🛠️ Tech Stack
 
-Frontend
+React.js TypeScript JavaScript Java Spring Boot Node.js PostgreSQL MongoDB Redux Toolkit Workbox Playwright Git
 
-React.js, JavaScript, TypeScript
+🤝 Connect With Me
 
-Redux Toolkit, HTML5, CSS3
+LinkedIn: My Profile
 
-Backend
+Portfolio: My Portfolio
 
-Java, Spring Boot
+Email: developmentwithshivam@gmail.com
 
-Node.js, Express.js
-
-REST APIs
-
-Database
-
-PostgreSQL, MongoDB, SQL
-
-IndexedDB, Appwrite
-
-Architecture & PWA
-
-Microservices Architecture
-
-Webpack Module Federation
-
-Progressive Web Apps (PWA)
-
-Service Workers, Workbox
-
-Cache API, Background Sync
-
-Offline-First Architecture
-
-Testing & Tools
-
-Playwright, Jest, Vitest
-
-React Testing Library
-
-Git, GitHub, Postman
-
-VS Code
-
-AI & Development
-
-Cursor AI, GitHub Copilot, ChatGPT, Claude
-
-MCP (Model Context Protocol)
-
-Agentic AI
-
-💼 Professional Experience
-
-Software Engineer — MindSpick | AssetNeuron
-
-Developing full-stack features using React.js, TypeScript, Java and Spring Boot.
-
-Building frontend modules using Microfrontend Architecture.
-
-Developing REST APIs and integrating PostgreSQL databases.
-
-Implementing offline-first PWA capabilities using Workbox and IndexedDB.
-
-Working on Firebase Cloud Messaging and push notifications.
-
-Writing and maintaining frontend tests using Playwright and Jest.
-
-Frontend Developer Intern — QSpiders
-
-Developed responsive React.js applications.
-
-Worked with Redux Toolkit and REST API integration.
-
-Practiced reusable component development and state management.
-
-🎯 Current Interests
-
-Advanced Java & Spring Boot
-
-Backend and Microservices Architecture
-
-System Design
-
-Offline-First Applications
-
-Agentic AI & MCP
-
-Test Automation with Playwright
-
-🤝 Let's Connect
-
-💼 LinkedIn: Connect with me
-
-🌐 Portfolio: Visit my portfolio
-
-📧 Email: developmentwithshivam@gmail.com
-
-⭐ Building, learning, and turning ideas into real-world applications.
+Always learning, building, and growing. 🚀
